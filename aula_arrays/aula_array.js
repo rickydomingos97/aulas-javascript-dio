@@ -1,3 +1,9 @@
+var count = 1;
+while (count <= 5){
+    console.log(count);
+    count++;
+};
+/* 
 var age = prompt("how old are you? ")
 //var age = 12;
 if(age >= 18){
@@ -5,8 +11,6 @@ if(age >= 18){
 }else{
     console.log("No adult");
 };
-/* 
-
 var fruit = [{name: "apple", color: "red"}, {name: "pinaple", color: "green"}];
 console.log(fruit);
 console.log(fruit[1].name);
