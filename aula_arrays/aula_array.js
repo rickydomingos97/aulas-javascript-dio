@@ -1,8 +1,16 @@
+var d = new Date();
+//alert(d);
+console.log(d);
+console.log(d.getMonth()+1);
+console.log(d.getDay());
+console.log(d.getMinutes());
+
+/* 
 var count;
 for(count = 0; count <=5; count++){
     console.log(count);
 }
-/* 
+
 
 var count = 1;
 while (count <= 5){
