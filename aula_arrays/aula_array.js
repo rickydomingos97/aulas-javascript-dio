@@ -1,9 +1,14 @@
+var count;
+for(count = 0; count <=5; count++){
+    console.log(count);
+}
+/* 
+
 var count = 1;
 while (count <= 5){
     console.log(count);
     count++;
 };
-/* 
 var age = prompt("how old are you? ")
 //var age = 12;
 if(age >= 18){
