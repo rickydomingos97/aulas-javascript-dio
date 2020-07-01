@@ -1,1 +1,2 @@
-alert("my first alert");
+var name = "Ricardo Domingos";
+alert("Welcome " + name);
