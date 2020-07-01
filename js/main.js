@@ -1,2 +1,3 @@
 var name = "Ricardo Domingos";
-alert("Welcome " + name);
+var age = "38";
+alert(name + " is " + age + " years old");
